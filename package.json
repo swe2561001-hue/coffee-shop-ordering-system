@@ -1,0 +1,27 @@
+{
+    "name":  "coffee-shop-ordering-system",
+    "version":  "1.0.0",
+    "description":  "",
+    "main":  "index.js",
+    "directories":  {
+                        "doc":  "docs",
+                        "test":  "tests"
+                    },
+    "scripts":  {
+                    "test":  "node --test"
+                },
+    "repository":  {
+                       "type":  "git",
+                       "url":  "git+https://github.com/swe2561001-hue/coffee-shop-ordering-system.git"
+                   },
+    "keywords":  [
+
+                 ],
+    "author":  "",
+    "license":  "ISC",
+    "type":  "commonjs",
+    "bugs":  {
+                 "url":  "https://github.com/swe2561001-hue/coffee-shop-ordering-system/issues"
+             },
+    "homepage":  "https://github.com/swe2561001-hue/coffee-shop-ordering-system#readme"
+}
